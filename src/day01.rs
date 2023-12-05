@@ -51,6 +51,6 @@ fn part_1(calibration_values: &Vec<u8>) -> Option<u8> {
     Some(calibration_values.iter().sum())
 }
 
-fn part_2(calibration_values: &Vec<u8>) -> Option<i32> {
+fn part_2(_calibration_values: &Vec<u8>) -> Option<i32> {
     unimplemented!()
 }
